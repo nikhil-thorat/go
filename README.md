@@ -4,3 +4,4 @@
 - [x] Integers
 - [x] Iteration
 - [x] Array & Slices
+- [x] Struct & Interfaces
